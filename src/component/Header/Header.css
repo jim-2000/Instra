@@ -1,8 +1,9 @@
 .app_header .app_header_logo {
   object-fit: contain;
   background-color: #f7f7f7;
-  /* width: 100px;
-  height: 60px; */
+  width: 100px;
+  height: 60px;
+  border-radius: 5px;
 }
 .app_header {
   padding: 20px;

@@ -1,4 +1,4 @@
-import { Avatar } from '@material-ui/core';
+// import { Avatar } from '@material-ui/core';
 import React from 'react';
 import logo from '../../asset/img/font.png'
 import './Header.css'
@@ -14,8 +14,7 @@ const Header = () => {
                 alt="logo"
                 /> 
                 {/* <Avatar alt="Remy Sharp" src={logo} className="post_avatar" /> */}
-            </div>
-hello sunnyLorem takimata justo invidunt et invidunt eos amet kasd justo, diam no at eirmod ea et est consetetur, sed sea.
+            </div>        
         </div>
     );
 };

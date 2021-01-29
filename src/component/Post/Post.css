@@ -4,13 +4,22 @@
   border-top: 1px solid lightgray;
   border-bottom: 1px solid lightgray;
   margin-bottom: 45px;
+  margin: 10px;
+  transition: all 0.5s;
 }
+
 .post_image {
   width: 100%;
   object-fit: contain;
   border-top: 1px solid lightgray;
   border-bottom: 1px solid lightgray;
 }
+.post_image:hover {
+  transform: scale(1.02);
+  transition: ease-in-out;
+  box-shadow: 2px -2px 0.5 #000000;
+}
+
 .post_txt {
   font-weight: normal;
   padding: 20px;
