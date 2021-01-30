@@ -1,9 +1,9 @@
 import React, { useState,useEffect } from 'react';
 import Header from '../Header/Header';
 import Post from '../Post/Post';
-import postImage from '../../asset/img/me.jpg'
-import food from '../../asset/img/food_bg.jpg'
-import car from '../../asset/img/car.png'
+// import postImage from '../../asset/img/me.jpg'
+// import food from '../../asset/img/food_bg.jpg'
+// import car from '../../asset/img/car.png'
 import {db} from '../../firebase'
 
 
